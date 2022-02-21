@@ -1,11 +1,23 @@
-Quem sou eu?
+## Quem  sou eu
+
+
 👩‍💻Estudante em ciência de dados.
-📊experiente em infraestrutura de TI.
+
+📊Experiente em infraestrutura de TI.
+
 👩‍🎓Bacharel em sistemas de informação.
-Habilidades👩‍💻
-🐍Pithon.
+
+
+## Habilidades👩‍💻  
+
+🐍Pithon. 
+
 🧮PowerBI.
-📊Visualização de dados
+
+📊Visualização de dados.
+
 🧪Análise de Sobrevivência.
-Encontre-me ao redor do mundo
+
+## Encontre-me ao redor do mundo
+
 https://www.linkedin.com/in/haroldomoraes/

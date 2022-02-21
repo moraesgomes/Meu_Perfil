@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @moraesgomes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-moraesgomes/moraesgomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Quem sou eu?
+👩‍💻Estudante em ciência de dados.
+📊experiente em infraestrutura de TI.
+👩‍🎓Bacharel em sistemas de informação.
+Habilidades👩‍💻
+🐍Pithon.
+🧮PowerBI.
+📊Visualização de dados
+🧪Análise de Sobrevivência.
+Encontre-me ao redor do mundo
+https://www.linkedin.com/in/haroldomoraes/

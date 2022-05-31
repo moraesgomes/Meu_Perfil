@@ -1,6 +1,6 @@
 ## Quem sou  eu 
 
-👩‍💻Estudante em ciência de dados.
+👩‍💻Estudante em ciência de dados e desenvolvimento Web.
 
 📊Experimente a infraestrutura de TI.
 
@@ -10,13 +10,13 @@
 ## Habilidades
 
 
-🐍Pitão.
+🐍Pithon.
 
 🧮PowerBI.
 
-📊Visualização de dados.
+📊Visualização de dados.  
 
-🧪Análise de Sobrevivência.
+🧪Machine Learning.
 
 
 ## Econtre-me ao redor do mundo
